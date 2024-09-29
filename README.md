@@ -2,14 +2,14 @@
 
 # Ben Turner
 
-- Interest 1
-- Interest 2
-- Interest 3
+I enjoy:
+
+- Spending time with friends and family
+- Watching and playing sports
+- Eating food
 
 ## Technical Background
 
-I have experience in programming with languages such as [list languages here]. I have worked on [describe projects, technical areas, or tools you have experience with].
+I have experience in programming with languages such as Python and C. I have worked on various projects varying in difficulty with both languages.
 
-### [Optional: Add more details here, such as libraries, frameworks, or specific areas of expertise.]
-
-![Favorite Meme](link_to_favorite_meme)
+![Favorite Meme]((https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FLionsMemes%2Fstatus%2F1736414470753099865&psig=AOvVaw1zMPO-HvRCAsMKoe7PvIIv&ust=1727661123249000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCPob6F54gDFQAAAAAdAAAAABAJ))
